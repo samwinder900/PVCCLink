@@ -1,0 +1,7 @@
+Gmail calendar login: pvcc.test.email@gmail.com
+Gmail calendar password: pvccemail
+
+Paypal login: pvcc.test.email-buyer@gmail.com
+Paypal password: pvccemail
+
+Active website link: http://da02e323.ngrok.io
