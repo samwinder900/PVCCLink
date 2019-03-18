@@ -5,3 +5,7 @@ Paypal login: pvcc.test.email-buyer@gmail.com
 Paypal password: pvccemail
 
 Active website link: http://da02e323.ngrok.io
+
+Admin backend key: password
+
+
